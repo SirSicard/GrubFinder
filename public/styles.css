@@ -31216,12 +31216,12 @@ video {
 
 .button{
   --tw-bg-opacity: 1;
-  background-color: rgba(52, 211, 153, var(--tw-bg-opacity));
+  background-color: rgba(96, 165, 250, var(--tw-bg-opacity));
 }
 
 .button:hover{
   --tw-bg-opacity: 1;
-  background-color: rgba(110, 231, 183, var(--tw-bg-opacity));
+  background-color: rgba(147, 197, 253, var(--tw-bg-opacity));
   --tw-bg-opacity: 0.5;
 }
 
@@ -31238,12 +31238,12 @@ video {
 
 .button{
   --tw-text-opacity: 1;
-  color: rgba(6, 78, 59, var(--tw-text-opacity));
+  color: rgba(30, 58, 138, var(--tw-text-opacity));
 }
 
 .button:hover{
   --tw-text-opacity: 1;
-  color: rgba(6, 95, 70, var(--tw-text-opacity));
+  color: rgba(30, 64, 175, var(--tw-text-opacity));
 }
 
 .button{
