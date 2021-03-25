@@ -31270,6 +31270,96 @@ video {
   transition-duration: 300ms;
 }
 
+/*
+typography
+*/
+
+.h1{
+  font-family: Poppins;
+  font-weight: 700;
+  font-size: 3.75rem;
+  line-height: 1;
+  --tw-text-opacity: 1;
+  color: rgba(31, 41, 55, var(--tw-text-opacity));
+}
+
+.h2{
+  font-family: Poppins;
+  font-weight: 700;
+  font-size: 3rem;
+  line-height: 1;
+  --tw-text-opacity: 1;
+  color: rgba(31, 41, 55, var(--tw-text-opacity));
+}
+
+.h3{
+  font-family: Poppins;
+  font-weight: 700;
+  font-size: 2.25rem;
+  line-height: 2.5rem;
+  --tw-text-opacity: 1;
+  color: rgba(31, 41, 55, var(--tw-text-opacity));
+}
+
+.h4{
+  font-family: Poppins;
+  font-weight: 700;
+  font-size: 1.875rem;
+  line-height: 2.25rem;
+  --tw-text-opacity: 1;
+  color: rgba(31, 41, 55, var(--tw-text-opacity));
+}
+
+.h5{
+  font-family: Poppins;
+  font-weight: 700;
+  font-size: 1.5rem;
+  line-height: 2rem;
+  --tw-text-opacity: 1;
+  color: rgba(31, 41, 55, var(--tw-text-opacity));
+}
+
+.h6{
+  font-family: Poppins;
+  font-weight: 700;
+  font-size: 1.25rem;
+  line-height: 1.75rem;
+  --tw-text-opacity: 1;
+  color: rgba(31, 41, 55, var(--tw-text-opacity));
+}
+
+.para-xl{
+  font-family: Merriweather;
+  font-size: 1.875rem;
+  line-height: 2.25rem;
+  --tw-text-opacity: 1;
+  color: rgba(31, 41, 55, var(--tw-text-opacity));
+}
+
+.para-lg{
+  font-family: Merriweather;
+  font-size: 1.5rem;
+  line-height: 2rem;
+  --tw-text-opacity: 1;
+  color: rgba(31, 41, 55, var(--tw-text-opacity));
+}
+
+.para-md{
+  font-family: Merriweather;
+  font-size: 1rem;
+  line-height: 1.5rem;
+  --tw-text-opacity: 1;
+  color: rgba(31, 41, 55, var(--tw-text-opacity));
+}
+
+.para-sm{
+  font-family: Merriweather;
+  font-size: 0.875rem;
+  line-height: 1.25rem;
+  --tw-text-opacity: 1;
+  color: rgba(55, 65, 81, var(--tw-text-opacity));
+}
+
 @media (min-width: 640px){
   .sm\:container{
     width: 100%;
