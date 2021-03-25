@@ -66,3 +66,12 @@ typography
     @apply text-sm text-gray-700 font-merri;
     
 }
+
+/* dasbboard menu */
+.dashboard-menu{
+    @apply col-span-2 bg-gray-800  min-h-screen;
+}
+
+.dashboard-menu nav ul li{
+    @apply m-1 p-1 border-gray-900 border-solid border-b-2 font-bold  text-gray-400  hover:text-gray-300;
+}
