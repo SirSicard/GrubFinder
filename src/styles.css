@@ -75,3 +75,19 @@ typography
 .dashboard-menu nav ul li{
     @apply m-1 p-1 border-gray-900 border-solid border-b-2 font-bold  text-gray-400  hover:text-gray-300;
 }
+
+/* card stuff */
+.card-wrapper{
+   @apply m-5 w-1/3 rounded-xl  shadow-xl bg-gray-800 text-gray-300;
+}
+.card-wrapper h2{
+    @apply p-3 bg-gradient-to-r rounded-t-xl;
+}
+
+/* quick action stuffs */
+.quick-actions{
+    @apply  my-5 flex flex-row;
+}
+.quick-actions a{
+    @apply m-5 w-1/3 rounded-xl shadow-xl text-gray-300 p-5 text-center;
+}
